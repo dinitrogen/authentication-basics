@@ -1,0 +1,1 @@
+On the command line, type "node ./app.js" to start the server
